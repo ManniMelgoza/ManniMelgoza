@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Melgoza</h1>
-<h3 align="center">Working on getting hired</h3>
+<h3 align="center">Working on achiving my dream of becoming a software engineer</h3>
 
 - 🔭 I’m currently working on improving my project **Flip and Ship**
 - 🌱 I’m currently learning** React** and **Typescript**
