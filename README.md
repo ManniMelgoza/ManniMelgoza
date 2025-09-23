@@ -2,7 +2,7 @@
 <h3 align="center">Working on achiving my dream of becoming a software engineer</h3>
 
 - 🔭 I’m currently working on improving my project **Flip and Ship**
-- 🌱 I’m currently learning** React** and **Typescript**
+- 🌱 I’m currently learning **React** and **Typescript**
 - 👯 I’m looking to collaborate on React project and full-stack applications
 - 🤔 I’m looking to deepen my knowledge in Express.js and backend development
 - 💬 Ask me about JavaScript, React basics, or building CRUD applications
